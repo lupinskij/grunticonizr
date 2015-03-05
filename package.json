@@ -1,0 +1,10 @@
+{
+  "name": "grunticon",
+  "version": "0.1.0",
+  "author": "Jeff Lupinski",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-iconizr": "^0.2.3"
+  }
+}
